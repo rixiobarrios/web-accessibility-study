@@ -8,6 +8,11 @@ technology. This could mean they use assistive technology like screen readers,
 or that they simply need more guidance and clarity from the design of
 web sites and web applications they use.
 
+As developers, we have a responsibility to work to ensure as many users as
+possible are able to easily use what we build. This study will explore
+the types of accessibility, and how we can plan and approach developing
+accessible technology. 
+
 ![accessibility quote](https://media.git.generalassemb.ly/user/16103/files/de3dd300-3063-11e9-9f8b-6f59fa4e8422)
 
 ## Prerequisites
