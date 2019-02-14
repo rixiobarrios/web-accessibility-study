@@ -1,45 +1,33 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Exercise Template
+# Web Accessibility Study
 
-Use this template to structure your READMEs for studies, practices, diagnostics,
-and challenges. Change all instances of 'exercise' to the relevant exercise type,
-including the [`exercise.md`](exercise.md) file name.
+According to the 2010 census, 19% of the United States population
+could be categorized as having a disability that requires accessible
+technology. This could mean they use assistive technology like screen readers,
+or that they simply need more guidance and clarity from the design of
+web sites and web applications they use.
 
-Remove text from this section, or use it to frame the exercise.
-Good framing answers the question "Why am I learning this?".
-
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
-`.gitignore`; these are usually found in specific technology templates, for
-example [js-template](https://www.github.com/ga-wdi-boston/js-template).
+![accessibility quote](https://media.git.generalassemb.ly/user/16103/files/de3dd300-3063-11e9-9f8b-6f59fa4e8422)
 
 ## Prerequisites
 
-- Topics with which developers should be familiar with.
-- Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-    Sass, I would **not** need to include CSS as a prerequisite.
-- [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
-    are often useful. Previous materials might include talks or other exercises.
+- None
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
-- Write objectives that focus on demonstrating knowledge.
-- Write learning objectives that begin with an [imperative
-    verb](https://en.wikipedia.org/wiki/Imperative_mood).
-- Avoid objectives that start with "Use" or "Understand".
-- Rewrite objectives that begin with "Use" by inverting sentence structure.
-- End each objective with a period.
+- Name the categories of accessibility
+- Explain importance of accessible websites and applications
+- Identify accessibility best practices
 
 ## Instructions
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Install any dependencies with `bundle install` or `npm install`.
 1. Create and checkout a new branch, named `response`.
-1. Follow the directions given in [`exercise.md`](exercise.md).
+1. Follow the directions given in [`study.md`](study.md).
 1. When finished, push to your fork and submit a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
@@ -61,23 +49,6 @@ requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 You may use **any resource** other than each other to complete this exercise.
 This includes referencing talk materials, appropriate documentation, and
 searching for help online.
-
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-your responses are correct.
-
-It's probably a good idea to include the above verbatim in each exercise.
-Remember to edit the link to the actual exercise file (it might be stored in a
-different directory or have a different extension). If tooling is not included
-in this exercise, feel free to remove that bit from these instructions.
-
-## Bonus
-
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
-
-Sometimes, we ask questions that promote thinking critically about code.
 
 ## [License](LICENSE)
 
