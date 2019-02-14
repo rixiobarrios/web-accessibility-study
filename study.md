@@ -50,3 +50,10 @@ best practices.
 ```md
 <!-- your answer here -->
 ```
+
+## Additional Resources
+
+- [Yale: Web Accesibility](https://usability.yale.edu/web-accessibility/articles)
+- [W3 Web Accesibility Training](https://www.w3.org/WAI/teach-advocate/accessibility-training/topics/)
+- [Web Accesibility Standards](https://webaim.org/standards/wcag/checklist)
+- [A11y Course](https://github.com/mgifford/a11y-courses)
