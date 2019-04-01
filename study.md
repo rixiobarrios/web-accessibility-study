@@ -26,6 +26,39 @@ There are four major categories of accessibility:
 - Motor (cerebral palsy, parkinson’s, muscular dystrophy)
 - Cognitive (down’s syndrome, autism, global developmental delay, dyslexia)
 
+## The Legality Of It All
+
+Why is accessibility important? In the eyes of the law, _not_ providing
+accessible technology, especially in cases of providing goods and services
+through those technologies, can be a form of discrimination.
+
+In 2008 Target was sued by the National Federation of the Blind because its
+website was not accessible to visually impaired people who used screenreaders
+to experience the web. The total cost to Target was well over $13 Million:
+
+- Class damages of $6 million
+- Plaintiff legal fees over $3.7 million
+- Undisclosed defense legal fees (estimated to be nearly $4 Million)
+- Additionally, they were subject to court oversight of their website for
+several years.
+
+In addition to be subjected to 3rd party lawsuits, companies can be fined
+under the American's with Disabilities Act (ADA). In a recent case against
+Winn-Dixie, the courts ruled in favor of the Department of Justice who had
+argued that "discrimination applies to the provision of goods and services
+of a place of public accommodation, rather than just those goods and
+services at or in a place of public accommodation."
+
+In addition to risk mitigation, it is simply the right thing to do.
+The WHO reported in 2012 that there were 285 million visually impaired
+people in the world, of them 39 million are completely blind, and these are
+only the statistics for a single group of people with disabilities.
+
+The web is an incredible resource, especially for those who may not have
+regular access to certain resources or services without it. It is
+our responsibility as web developers to then not fail those people who may
+rely on our products.
+
 ## Study Readings
 
 - [A Simple Introduction to Web Accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888)
