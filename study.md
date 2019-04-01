@@ -63,7 +63,7 @@ rely on our products.
 
 - [A Simple Introduction to Web Accessibility](https://www.creativebloq.com/netmag/simple-introduction-web-accessibility-7116888)
 - [Accessibility Fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
-- [Github Accessibility Posters](https://git.generalassemb.ly/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
+- [Github Accessibility Posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
 
 ## Question: Accesibility and Inclusive Design
 
@@ -89,4 +89,4 @@ best practices.
 - [Yale: Web Accesibility](https://usability.yale.edu/web-accessibility/articles)
 - [W3 Web Accesibility Training](https://www.w3.org/WAI/teach-advocate/accessibility-training/topics/)
 - [Web Accesibility Standards](https://webaim.org/standards/wcag/checklist)
-- [A11y Course](https://git.generalassemb.ly/mgifford/a11y-courses)
+- [A11y Course](https://github.com/mgifford/a11y-courses)
