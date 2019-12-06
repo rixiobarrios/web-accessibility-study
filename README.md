@@ -31,30 +31,15 @@ By the end of this, developers should be able to:
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Create and checkout a new branch, named `response`.
 1. Follow the directions given in [`study.md`](study.md).
-1. When finished, push to your fork and submit a pull request.
 
-Your pull request description should contain a "fist to five" for comfort and
-clarity. Additionally, you should mention the resources you used to help you
-complete this diagnostic. For example:
-
-```md
-Comfort: 3
-Clarity: 3
-
-I used Google and my class notes to help with this exercise.
-```
+Discuss with your group and we'll come back together to discuss resources and what we learned.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
-related to [forking,
-cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and
-[pull
-requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
+related to [forking and
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
-You may use **any resource** other than each other to complete this exercise.
-This includes referencing talk materials, appropriate documentation, and
-searching for help online.
+You may use **any resource** to complete this exercise. This includes referencing talk materials, appropriate documentation, and searching for help online.
 
 ## [License](LICENSE)
 
