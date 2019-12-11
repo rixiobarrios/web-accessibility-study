@@ -72,6 +72,17 @@ applications accessible, and what it means to use "inclusive design".
 
 ```md
 <!-- your answer here -->
+1. Its the law
+2. To avoid complaints
+3. Increae user base
+4. Increase search rankings (examples: alt text on image)
+5. improve public image
+
+What it means to use "Inclusive design":
+1. To make anm easili navigable website
+2. Understand how to make designs diverse
+3. Creating usable, functional, and easy-to-use products that meet the needs
+of as many individuals as possible (flom blog post on medium)
 ```
 
 ## Question: Best Practices
@@ -82,6 +93,12 @@ best practices.
 
 ```md
 <!-- your answer here -->
+1. Large text and image
+2. All text on images
+3. Consice menus
+4. Abstract or transcripts for audio
+5. Frames and iframes must be formatted properly for screen readers
+to understand
 ```
 
 ## Additional Resources
